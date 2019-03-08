@@ -17,21 +17,6 @@
         android:title="@string/title_add" />
 
     <item
-        android:id="@+id/navigation_post_news"
-        android:icon="@mipmap/ic_cross"
-        android:title="@string/title_add" />
-
-    <item
-        android:id="@+id/navigation_write_blog"
-        android:icon="@mipmap/ic_new_blog"
-        android:title="@string/title_add" />
-
-    <item
-        android:id="@+id/navigation_post_article"
-        android:icon="@mipmap/ic_cross"
-        android:title="@string/title_add" />
-
-    <item
         android:id="@+id/navigation_find"
         android:icon="@mipmap/ic_nav_discover_normal"
         android:title="@string/title_find" />
