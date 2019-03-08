@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OSChina</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_comprehensive">综合</string>
+    <string name="title_tweet">动弹</string>
+    <string name="title_add"></string>
+    <string name="title_find">发现</string>
+    <string name="title_mine">我的</string>
+</resources>

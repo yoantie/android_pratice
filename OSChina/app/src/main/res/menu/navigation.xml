@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_comprehensive"
+        android:icon="@mipmap/ic_nav_news_normal"
+        android:title="@string/title_comprehensive" />
+
+    <item
+        android:id="@+id/navigation_tweet"
+        android:icon="@mipmap/ic_nav_tweet_normal"
+        android:title="@string/title_tweet" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@mipmap/ic_cross"
+        android:title="@string/title_add" />
+
+    <item
+        android:id="@+id/navigation_find"
+        android:icon="@mipmap/ic_nav_discover_normal"
+        android:title="@string/title_find" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@mipmap/ic_nav_my_normal"
+        android:title="@string/title_mine" />
+
+</menu>
